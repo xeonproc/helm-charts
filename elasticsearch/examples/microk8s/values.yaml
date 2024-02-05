@@ -29,4 +29,4 @@ volumeClaimTemplate:
   storageClassName: "microk8s-hostpath"
   resources:
     requests:
-      storage: 100M
+      storage: 30Gi
